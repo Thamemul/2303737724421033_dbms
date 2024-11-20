@@ -1,0 +1,15 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .bkimg {
+    background-image: url('im1.jpg'); /* Replace with your image path */
+    background-size: cover; /* Makes the image cover the entire area */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+    height: 100vh; /* Sets height to full viewport height */
+    width: 100%; /* Sets width to full viewport width */
+  }
+  
